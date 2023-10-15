@@ -1,0 +1,10 @@
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\bin\Debug\SimpleQuizMath.exe.config
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\bin\Debug\SimpleQuizMath.exe
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\bin\Debug\SimpleQuizMath.pdb
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.csproj.AssemblyReference.cache
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.Form1.resources
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.Properties.Resources.resources
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.csproj.GenerateResource.cache
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.csproj.CoreCompileInputs.cache
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.exe
+D:\5. SEMESTER 5\PEMROGRAMAN PLATFORM DESKTOP DAN EMBEDDED\PRAKTIKUM-DESKTOP\SimpleQuizMath\SimpleQuizMath\obj\Debug\SimpleQuizMath.pdb
